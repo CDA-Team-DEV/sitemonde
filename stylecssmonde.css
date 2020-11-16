@@ -310,17 +310,22 @@ ul li{
 }
 h1 {
     align: center;
-    background-color:rgba(231, 104, 19, 0.667);
-    font-family:"arial";
-    font-size:20 ;
+    display: flex;
+    flex-direction: column;
     <br/>
 }
 h2 {
+    display:flex;
     align: center;
-    background-color:rgba(231, 104, 19, 0.667);
-    font-style: italic;
-    font-size:8 ;
-    font-family: Verdana;
+    width: 100%;
+    flex-direction: column;
+}
+h3 {
+
+}
+h4 { 
+
+
 }
 footer{
      background-color:rgba(231, 104, 19, 0.667);
