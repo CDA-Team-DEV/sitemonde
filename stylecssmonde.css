@@ -50,7 +50,6 @@ h2 {
 }
 div {
   display:flex;
-  width: 33%;
   flex-direction: row;
 }
 h4 { 
